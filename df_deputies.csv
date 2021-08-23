@@ -1,0 +1,574 @@
+code,sex,family name,first name,date of birth,activity,pol party,dep,num_dep,circo
+PA1008,male,David,Alain,1949-06-02,Cadres,PS,Gironde,33,4
+PA1012,male,de la Verpillière,Charles,1954-05-31,Cadres,REP,Ain,01,2
+PA1029,male,Deflesselles,Bernard,1953-10-16,Cadres,REP,Bouches-du-Rhône,13,9
+PA1198,female,Dumont,Laurence,1958-06-02,Cadres,PS,Calvados,14,2
+PA1206,male,Dupont-Aignan,Nicolas,1961-03-07,Cadres,ND,Essonne,91,8
+PA1276,male,Fanget,Michel,1950-05-03,Cadres,MODEM,Puy-de-Dôme,63,4
+PA1327,male,Forissier,Nicolas,1961-02-17,Entrepreneurs,REP,Indre,36,2
+PA1592,male,Habib,David,1961-03-16,Cadres,PS,Pyrénées-Atlantiques,64,3
+PA1630,male,Herbillon,Michel,1951-03-06,Cadres,REP,Val-de-Marne,94,8
+PA1695,male,Jacob,Christian,1959-12-04,Agriculteurs,REP,Seine-et-Marne,77,4
+PA1809,male,Lambert,Jérôme,1957-06-07,Cadres,PS,Charente,16,3
+PA1838,male,Lassalle,Jean,1955-05-03,Ouvriers,RPS,Pyrénées-Atlantiques,64,4
+PA1874,male,Le Fur,Marc,1956-11-28,Cadres,REP,Côtes-d'Armor,22,3
+PA2150,male,Mélenchon,Jean-Luc,1951-08-19,Cadres,FI,Bouches-du-Rhône,13,4
+PA2155,male,Menuel,Gérard,1952-05-07,Agriculteurs,REP,Aube,10,3
+PA223837,male,Brochand,Bernard,1938-06-05,Retraités,REP,Alpes-Maritimes,06,8
+PA2377,male,Perrut,Bernard,1957-01-24,Cadres,REP,Rhône,69,9
+PA2449,male,Pont,Jean-Pierre,1950-05-09,Cadres,LAREM,Pas-de-Calais,62,5
+PA2492,male,Quentin,Didier,1946-12-23,Cadres,REP,Charente-Maritime,17,5
+PA2529,male,Reitzer,Jean-Luc,1951-12-29,Cadres,REP,Haut-Rhin,68,3
+PA266776,male,Reiss,Frédéric,1949-11-12,Cadres,REP,Bas-Rhin,67,8
+PA266788,male,Morel-À-L'Huissier,Pierre,1958-12-21,Cadres,UDRL,Lozère,48,1
+PA266793,male,Bony,Jean-Yves,1955-03-11,Agriculteurs,REP,Cantal,15,2
+PA266797,male,Gosselin,Philippe,1966-10-23,Cadres,REP,Manche,50,1
+PA266808,male,Rolland,Vincent,1970-02-01,Cadres,REP,Savoie,73,2
+PA267042,male,Favennec-Bécot,Yannick,1958-08-12,Cadres,UDRL,Mayenne,53,3
+PA267200,male,Huyghe,Sébastien,1969-10-25,Cadres,REP,Nord,59,5
+PA267204,male,Sermier,Jean-Marie,1961-03-05,Agriculteurs,REP,Jura,39,3
+PA267260,female,Poletti,Bérengère,1959-10-14,Prof. inter.,REP,Ardennes,08,1
+PA267289,male,Door,Jean-Pierre,1942-04-01,Cadres,REP,Loiret,45,4
+PA267306,male,Chassaigne,André,1950-07-02,Cadres,PCF,Puy-de-Dôme,63,5
+PA267318,male,Grelier,Jean-Carles,1966-03-15,Cadres,REP,Sarthe,72,5
+PA267324,male,Gaultier,Jean-Jacques,1963-07-13,Cadres,REP,Vosges,88,4
+PA267330,male,Zumkeller,Michel,1966-01-21,Cadres,UDRL,Territoire de Belfort,90,2
+PA267337,female,Bouchet,Claire,1954-01-09,Employés,LAREM,Hautes-Alpes,05,2
+PA267355,male,Herth,Antoine,1963-02-14,Agriculteurs,MODEM,Bas-Rhin,67,5
+PA267378,female,Levy,Geneviève,1948-02-24,Cadres,REP,Var,83,1
+PA267429,male,Cinieri,Dino,1955-07-09,Cadres,REP,Loire,42,4
+PA267440,male,Diard,Éric,1965-07-21,Cadres,REP,Bouches-du-Rhône,13,12
+PA267450,male,Delatte,Rémi,1956-06-09,Agriculteurs,REP,Côte-d'Or,21,2
+PA267527,male,Saddier,Martial,1969-10-15,Retraités,REP,Haute-Savoie,74,3
+PA267735,male,de Ganay,Claude,1953-09-05,Non déclaré,REP,Loiret,45,3
+PA267766,male,Bricout,Guy,1944-02-18,Retraités,UDRL,Nord,59,18
+PA267780,female,Firmin Le Bodo,Agnès,1968-11-20,Cadres,MODEM,Seine-Maritime,76,7
+PA267785,male,Larrivé,Guillaume,1977-01-24,Cadres,REP,Yonne,89,1
+PA267794,female,Tabarot,Michèle,1962-10-13,Entrepreneurs,REP,Alpes-Maritimes,06,9
+PA267901,male,Kamardine,Mansour,1959-03-23,Cadres,REP,Mayotte,976,2
+PA268019,male,Lagarde,Jean-Christophe,1967-10-24,Cadres,UDRL,Seine-Saint-Denis,93,5
+PA2796,male,Teissier,Guy,1945-04-04,Cadres,REP,Bouches-du-Rhône,13,6
+PA2828,male,Tourret,Alain,1947-12-25,Cadres,LAREM,Calvados,14,6
+PA2952,male,Warsmann,Jean-Luc,1965-10-22,Non déclaré,REP,Ardennes,08,3
+PA2960,male,Woerth,Éric,1956-01-29,Cadres,REP,Oise,60,4
+PA330008,male,Breton,Xavier,1962-11-25,Cadres,REP,Ain,01,1
+PA330240,male,Ciotti,Éric,1965-09-28,Non déclaré,REP,Alpes-Maritimes,06,1
+PA330788,male,Reynès,Bernard,1953-10-18,Cadres,REP,Bouches-du-Rhône,13,15
+PA330909,male,Descoeur,Vincent,1962-12-13,Cadres,REP,Cantal,15,1
+PA331582,male,Vigier,Philippe,1958-02-03,Cadres,UDRL,Eure-et-Loir,28,4
+PA331835,female,Iborra,Monique,1945-03-08,Retraités,LAREM,Haute-Garonne,31,6
+PA332228,male,Benoit,Thierry,1966-09-13,Cadres,UDRL,Ille-et-Vilaine,35,6
+PA332523,female,Dalloz,Marie-Christine,1958-01-10,Non déclaré,REP,Jura,39,2
+PA332614,male,Juanico,Régis,1972-02-05,Cadres,EELV,Loire,42,1
+PA332747,male,de Rugy,François,1973-12-06,Cadres,LAREM,Loire-Atlantique,44,1
+PA333285,male,Garot,Guillaume,1966-05-29,Cadres,PS,Mayenne,53,1
+PA333421,male,Pancher,Bertrand,1958-06-05,Cadres,UDRL,Meuse,55,1
+PA333818,male,Hutin,Christian,1961-01-18,Cadres,PS,Nord,59,13
+PA334116,female,Maquet,Jacqueline,1949-05-13,Cadres,LAREM,Pas-de-Calais,62,2
+PA334768,male,Touraine,Jean-Louis,1945-10-08,Cadres,LAREM,Rhône,69,3
+PA335054,female,Karamanli,Marietta,1964-12-18,Cadres,PS,Sarthe,72,2
+PA335612,male,Lecoq,Jean-Paul,1958-10-13,Prof. inter.,PCF,Seine-Maritime,76,8
+PA335999,female,Batho,Delphine,1973-03-23,Cadres,EELV,Deux-Sèvres,79,2
+PA336175,female,Pinel,Sylvia,1977-09-28,Non déclaré,ND,Tarn-et-Garonne,82,2
+PA336316,male,Bouchet,Jean-Claude,1957-05-02,Entrepreneurs,REP,Vaucluse,84,2
+PA336439,male,Clément,Jean-Michel,1954-10-31,Cadres,RPS,Vienne,86,3
+PA337483,male,Letchimy,Serge,1953-01-13,Cadres,ND,Martinique,972,3
+PA340343,male,Saulignac,Hervé,1970-11-06,Cadres,PS,Ardèche,07,1
+PA340357,female,Victory,Michèle,1958-10-28,Prof. inter.,PS,Ardèche,07,2
+PA342196,female,Rouaux,Claudia,1963-10-13,Cadres,PS,Ille-et-Vilaine,35,3
+PA342240,male,Bourgeaux,Jean-Luc,1963-04-10,Agriculteurs,REP,Ille-et-Vilaine,35,7
+PA342415,female,Battistel,Marie-Noëlle,1956-08-20,Cadres,PS,Isère,38,4
+PA342601,male,Brindeau,Pascal,1974-06-20,Cadres,UDRL,Loir-et-Cher,41,3
+PA342935,female,Dubois,Marianne,1957-12-17,Non déclaré,REP,Loiret,45,5
+PA343493,male,Rouillard,Gwendal,1976-04-20,Cadres,LAREM,Morbihan,56,5
+PA345722,female,Le Grip,Constance,1960-11-14,Cadres,REP,Hauts-de-Seine,92,6
+PA346054,male,Maquet,Emmanuel,1968-06-02,Cadres,REP,Somme,80,3
+PA346876,male,Solère,Thierry,1971-08-17,Cadres,LAREM,Hauts-de-Seine,92,9
+PA405480,male,Pupponi,François,1962-07-31,Cadres,RPS,Val-d'Oise,95,8
+PA421348,male,Villiers,André,1954-12-13,Agriculteurs,UDRL,Yonne,89,2
+PA508,female,Biémouret,Gisèle,1952-06-16,Cadres,PS,Gers,32,2
+PA588884,female,Autain,Clémentine,1973-05-26,Cadres,FI,Seine-Saint-Denis,93,11
+PA604,male,Bouley,Bernard,1950-07-11,Entrepreneurs,REP,Essonne,91,2
+PA605036,male,Abad,Damien,1980-04-05,Non déclaré,REP,Ain,01,5
+PA605069,male,Bricout,Jean-Louis,1957-12-27,Cadres,PS,Aisne,02,3
+PA605084,male,Krabal,Jacques,1948-04-10,Retraités,LAREM,Aisne,02,5
+PA605131,male,Castaner,Christophe,1966-01-03,Cadres,LAREM,Alpes-de-Haute-Provence,04,2
+PA605518,male,Lambert,François-Michel,1966-08-24,Cadres,RPS,Bouches-du-Rhône,13,10
+PA605694,male,Falorni,Olivier,1972-03-27,Cadres,ND,Charente-Maritime,17,1
+PA605963,male,Alauzet,Éric,1958-06-07,Cadres,LAREM,Doubs,25,2
+PA605991,female,Genevard,Annie,1956-09-07,Cadres,REP,Doubs,25,5
+PA606098,male,Marleix,Olivier,1971-02-06,Cadres,REP,Eure-et-Loir,28,2
+PA606171,male,Ferrand,Richard,1962-07-01,Cadres,LAREM,Finistère,29,6
+PA606202,female,Dumas,Françoise,1960-04-12,Cadres,LAREM,Gard,30,1
+PA606507,male,Boudié,Florent,1973-09-22,Cadres,LAREM,Gironde,33,10
+PA606639,male,Vignal,Patrick,1958-01-22,Entrepreneurs,LAREM,Hérault,34,9
+PA607090,male,Vigier,Jean-Pierre,1969-10-22,Cadres,REP,Haute-Loire,43,2
+PA607155,male,Daniel,Yves,1954-07-31,Retraités,LAREM,Loire-Atlantique,44,6
+PA607193,female,Errante,Sophie,1971-07-22,Entrepreneurs,LAREM,Loire-Atlantique,44,10
+PA607395,male,Travert,Stéphane,1969-10-12,Cadres,LAREM,Manche,50,3
+PA607553,male,Potier,Dominique,1964-03-17,Agriculteurs,PS,Meurthe-et-Moselle,54,5
+PA607595,male,Pellois,Hervé,1951-04-17,Cadres,LAREM,Morbihan,56,1
+PA607619,male,Molac,Paul,1962-05-21,Cadres,RPS,Morbihan,56,4
+PA608016,female,Louwagie,Véronique,1961-03-20,Cadres,REP,Orne,61,2
+PA608172,female,Pires Beaune,Christine,1964-10-06,Cadres,PS,Puy-de-Dôme,63,2
+PA608292,female,Dubié,Jeanine,1958-01-03,Cadres,ND,Hautes-Pyrénées,65,2
+PA608416,male,Hetzel,Patrick,1964-07-02,Cadres,REP,Bas-Rhin,67,7
+PA608641,male,Blein,Yves,1954-10-12,Cadres,LAREM,Rhône,69,14
+PA608695,female,Untermaier,Cécile,1951-12-28,Cadres,PS,Saône-et-Loire,71,4
+PA608741,female,Tolmont,Sylvie,1962-10-09,Cadres,PS,Sarthe,72,4
+PA608826,female,Duby-Muller,Virginie,1979-08-16,Cadres,REP,Haute-Savoie,74,4
+PA609332,male,Faure,Olivier,1968-08-18,Cadres,PS,Seine-et-Marne,77,11
+PA609590,female,Rabault,Valérie,1973-04-25,Cadres,PS,Tarn-et-Garonne,82,1
+PA609726,male,Aubert,Julien,1978-06-11,Cadres,REP,Vaucluse,84,5
+PA610654,male,Nilor,Jean-Philippe,1965-05-15,Cadres,PCF,Martinique,972,4
+PA610667,male,Serville,Gabriel,1959-09-27,Cadres,PCF,Guyane,973,1
+PA610775,male,Gomès,Philippe,1958-10-27,Cadres,ND,Nouvelle-Calédonie,988,2
+PA642695,male,Bothorel,Éric,1966-10-20,Cadres,LAREM,Côtes-d'Armor,22,5
+PA642724,male,Barbier,Frédéric,1960-08-30,Cadres,LAREM,Doubs,25,4
+PA642764,male,Aviragnet,Joël,1956-06-16,Cadres,PS,Haute-Garonne,31,8
+PA642847,male,Bazin,Thibault,1984-10-27,Cadres,REP,Meurthe-et-Moselle,54,4
+PA642868,male,Christophe,Paul,1971-02-10,Cadres,MODEM,Nord,59,14
+PA642935,male,Becht,Olivier,1976-04-28,Cadres,MODEM,Haut-Rhin,68,5
+PA643004,male,Labille,Grégory,1968-07-10,Prof. inter.,UDRL,Somme,80,5
+PA643089,male,Thiériot,Jean-Louis,1969-06-26,Cadres,REP,Seine-et-Marne,77,3
+PA643103,male,Ferrara,Jean-Jacques,1967-06-16,Cadres,REP,Corse-du-Sud,2A,1
+PA643127,male,Questel,Bruno,1966-12-21,Cadres,LAREM,Eure,27,4
+PA643134,female,Valentin,Isabelle,1962-01-20,Agriculteurs,REP,Haute-Loire,43,1
+PA643145,female,Vainqueur-Christophe,Hélène,1956-05-06,Cadres,ND,Guadeloupe,971,4
+PA643157,male,Naillet,Philippe,1960-08-14,Cadres,PS,Réunion,974,1
+PA643175,female,Dupont,Stella,1973-11-03,Cadres,LAREM,Maine-et-Loire,49,2
+PA643192,female,Jourdan,Chantal,1958-09-02,Cadres,PS,Orne,61,1
+PA643205,female,Lang,Anne-Christine,1961-08-10,Cadres,LAREM,Paris,75,10
+PA672,male,Bridey,Jean-Jacques,1953-05-07,Cadres,LAREM,Val-de-Marne,94,7
+PA677483,male,Mazars,Stéphane,1969-03-25,Cadres,LAREM,Aveyron,12,1
+PA689,female,Buffet,Marie-George,1949-05-07,Employés,PCF,Seine-Saint-Denis,93,4
+PA695100,male,Habib,Meyer,1961-04-28,Cadres,UDRL,Français établis hors de France,099,8
+PA702052,female,Sage,Maina,1975-05-10,Cadres,ND,Polynésie Française,987,1
+PA702054,male,Claireaux,Stéphane,1964-06-23,Entrepreneurs,ND,Saint-Pierre-et-Miquelon,975,1
+PA709315,male,Viala,Arnaud,1974-12-04,Cadres,REP,Aveyron,12,3
+PA712014,male,Ledoux,Vincent,1966-06-21,Cadres,MODEM,Nord,59,10
+PA712015,male,Dive,Julien,1985-05-21,Cadres,REP,Aisne,02,2
+PA713448,female,Brenier,Marine,1986-08-11,Cadres,REP,Alpes-Maritimes,06,5
+PA717167,male,Mahjoubi,Mounir,1984-03-01,Cadres,LAREM,Paris,75,16
+PA717379,male,Maillard,Sylvain,1974-04-28,Entrepreneurs,LAREM,Paris,75,1
+PA718674,female,Givernet,Olga,1981-10-17,Cadres,LAREM,Ain,01,3
+PA718682,male,Trompille,Stéphane,1982-12-01,Employés,LAREM,Ain,01,4
+PA718694,male,Delatte,Marc,1961-05-24,Cadres,LAREM,Aisne,02,4
+PA718710,female,Boyer,Pascale,1965-09-28,Non déclaré,LAREM,Hautes-Alpes,05,1
+PA718720,male,Dufrègne,Jean-Paul,1958-03-28,Cadres,PCF,Allier,03,1
+PA718728,female,Vanceunebrock,Laurence,1970-05-06,Employés,LAREM,Allier,03,2
+PA718736,female,Peyrol,Bénédicte,1991-03-23,Cadres,LAREM,Allier,03,3
+PA718744,female,Bagarry,Delphine,1970-01-09,Cadres,EELV,Alpes-de-Haute-Provence,04,1
+PA718756,female,Bono-Vandorme,Aude,1962-08-03,Cadres,LAREM,Aisne,02,1
+PA718768,female,Valetta Ardisson,Alexandra,1976-06-07,Prof. inter.,LAREM,Alpes-Maritimes,06,4
+PA718780,female,Trastour-Isnart,Laurence,1972-03-06,Cadres,REP,Alpes-Maritimes,06,6
+PA718784,male,Pauget,Éric,1970-08-18,Cadres,REP,Alpes-Maritimes,06,7
+PA718794,female,Hérin,Danièle,1947-01-14,Retraités,LAREM,Aude,11,1
+PA718802,male,Perea,Alain,1971-06-05,Cadres,LAREM,Aude,11,2
+PA718810,female,Robert,Mireille,1962-03-01,Prof. inter.,LAREM,Aude,11,3
+PA718838,male,Brun,Fabrice,1968-04-02,Entrepreneurs,REP,Ardèche,07,3
+PA718850,male,Cordier,Pierre,1972-05-27,Cadres,REP,Ardennes,08,2
+PA718860,female,Taurine,Bénédicte,1976-06-18,Cadres,FI,Ariège,09,1
+PA718868,male,Larive,Michel,1966-08-22,Prof. inter.,FI,Ariège,09,2
+PA718876,male,Besson-Moreau,Grégory,1982-07-07,Entrepreneurs,LAREM,Aube,10,1
+PA718884,female,Bazin-Malgras,Valérie,1969-10-31,Cadres,REP,Aube,10,2
+PA718894,male,Dombreval,Loïc,1966-04-16,Entrepreneurs,LAREM,Alpes-Maritimes,06,2
+PA718902,male,Roussel,Cédric,1972-10-10,Cadres,LAREM,Alpes-Maritimes,06,3
+PA718910,female,Pitollat,Claire,1979-09-17,Cadres,LAREM,Bouches-du-Rhône,13,2
+PA718918,female,Louis,Alexandra,1983-09-17,Cadres,LAREM,Bouches-du-Rhône,13,3
+PA718926,male,Dharréville,Pierre,1975-06-15,Prof. inter.,PCF,Bouches-du-Rhône,13,13
+PA718930,female,Petel,Anne-Laurence,1970-02-08,Cadres,LAREM,Bouches-du-Rhône,13,14
+PA718944,female,Racon-Bouzon,Cathy,1976-11-22,Cadres,LAREM,Bouches-du-Rhône,13,5
+PA718954,male,Ahamada,Saïd,1972-11-07,Prof. inter.,LAREM,Bouches-du-Rhône,13,7
+PA718962,male,Zulesi,Jean-Marc,1988-06-06,Cadres,LAREM,Bouches-du-Rhône,13,8
+PA718978,male,Laqhila,Mohamed,1959-08-03,Cadres,MODEM,Bouches-du-Rhône,13,11
+PA718990,female,Blanc,Anne,1966-07-20,Prof. inter.,LAREM,Aveyron,12,2
+PA719002,male,Ravier,Julien,1978-02-16,Cadres,REP,Bouches-du-Rhône,13,1
+PA719006,male,Le Vigoureux,Fabrice,1969-08-27,Cadres,LAREM,Calvados,14,1
+PA719020,female,Porte,Nathalie,1973-02-02,Cadres,REP,Calvados,14,3
+PA719024,male,Blanchet,Christophe,1973-04-09,Entrepreneurs,MODEM,Calvados,14,4
+PA719032,male,Bouyx,Bertrand,1970-05-26,Prof. inter.,LAREM,Calvados,14,5
+PA719044,female,Essayan,Nadia,1957-06-06,Cadres,MODEM,Cher,18,2
+PA719052,male,Kervran,Loïc,1984-02-11,Cadres,LAREM,Cher,18,3
+PA719060,male,Jerretie,Christophe,1979-08-31,Cadres,MODEM,Corrèze,19,1
+PA719072,male,Mesnier,Thomas,1986-03-04,Cadres,LAREM,Charente,16,1
+PA719080,female,Marsaud,Sandra,1974-01-02,Cadres,LAREM,Charente,16,2
+PA719092,female,Tuffnell,Frédérique,1956-06-29,Cadres,MODEM,Charente-Maritime,17,2
+PA719100,male,Ardouin,Jean-Philippe,1964-03-05,Entrepreneurs,LAREM,Charente-Maritime,17,3
+PA719108,male,Gérard,Raphaël,1968-10-17,Cadres,LAREM,Charente-Maritime,17,4
+PA719118,male,Cormier-Bouligeon,François,1972-11-19,Cadres,LAREM,Cher,18,1
+PA719130,female,Michel-Brassart,Monica,1955-04-16,Cadres,LAREM,Bouches-du-Rhône,13,16
+PA719138,male,Castellani,Michel,1945-09-28,Cadres,RPS,Haute-Corse,2B,1
+PA719146,male,Acquaviva,Jean-Félix,1973-03-19,Cadres,RPS,Haute-Corse,2B,2
+PA719154,male,Martin,Didier,1956-08-20,Cadres,LAREM,Côte-d'Or,21,1
+PA719162,female,Dubois,Jacqueline,1957-05-28,Retraités,LAREM,Dordogne,24,4
+PA719170,female,Charvier,Fannette,1984-12-31,Employés,LAREM,Doubs,25,1
+PA719186,female,Khattabi,Fadila,1962-02-23,Cadres,LAREM,Côte-d'Or,21,3
+PA719194,female,de Courson,Yolaine,1954-07-14,Retraités,MODEM,Côte-d'Or,21,4
+PA719202,male,Paris,Didier,1954-02-14,Cadres,LAREM,Côte-d'Or,21,5
+PA719210,male,Joncour,Bruno,1953-11-25,Employés,MODEM,Côtes-d'Armor,22,1
+PA719218,male,Berville,Hervé,1990-01-15,Cadres,LAREM,Côtes-d'Armor,22,2
+PA719230,male,Kerlogot,Yannick,1970-05-12,Cadres,LAREM,Côtes-d'Armor,22,4
+PA719242,male,Moreau,Jean-Baptiste,1977-02-14,Agriculteurs,LAREM,Creuse,23,1
+PA719250,male,Chassaing,Philippe,1972-05-18,Prof. inter.,LAREM,Dordogne,24,1
+PA719258,male,Delpon,Michel,1949-08-13,Cadres,LAREM,Dordogne,24,2
+PA719266,male,Cubertafon,Jean-Pierre,1948-02-05,Retraités,MODEM,Dordogne,24,3
+PA719272,female,Meunier,Frédérique,1960-12-08,Cadres,REP,Corrèze,19,2
+PA719286,male,Colombani,Paul-André,1967-08-17,Cadres,RPS,Corse-du-Sud,2A,2
+PA719294,female,Clapot,Mireille,1963-10-14,Cadres,LAREM,Drôme,26,1
+PA719302,female,Thourot,Alice,1985-10-12,Cadres,LAREM,Drôme,26,2
+PA719310,female,de Lavergne,Célia,1979-11-21,Cadres,LAREM,Drôme,26,3
+PA719318,female,Anthoine,Emmanuelle,1964-07-02,Cadres,REP,Drôme,26,4
+PA719326,female,Gipson,Séverine,1970-12-13,Cadres,LAREM,Eure,27,1
+PA719330,male,Gouttefarde,Fabien,1978-09-27,Cadres,LAREM,Eure,27,2
+PA719338,female,Melchior,Graziella,1960-04-06,Cadres,LAREM,Finistère,29,5
+PA719350,female,Tamarelle-Verhaeghe,Marie,1962-09-27,Cadres,LAREM,Eure,27,3
+PA719364,female,O'Petit,Claire,1949-10-15,Retraités,LAREM,Eure,27,5
+PA719372,male,Kasbarian,Guillaume,1987-02-28,Cadres,LAREM,Eure-et-Loir,28,1
+PA719382,male,Lamirault,Luc,1962-05-12,Entrepreneurs,ND,Eure-et-Loir,28,3
+PA719388,female,Le Meur,Annaïg,1973-04-29,Entrepreneurs,LAREM,Finistère,29,1
+PA719396,male,Larsonneur,Jean-Charles,1984-01-24,Cadres,LAREM,Finistère,29,2
+PA719404,male,Le Gac,Didier,1965-07-19,Prof. inter.,LAREM,Finistère,29,3
+PA719412,female,Le Feur,Sandrine,1991-03-18,Agriculteurs,LAREM,Finistère,29,4
+PA719420,male,Sommer,Denis,1957-09-23,Cadres,LAREM,Doubs,25,3
+PA719436,male,Meizonnet,Nicolas,1983-12-22,Cadres,ND,Gard,30,2
+PA719440,male,Cellier,Anthony,1975-06-01,Cadres,LAREM,Gard,30,3
+PA719448,female,Chapelier,Annie,1967-11-07,Prof. inter.,ND,Gard,30,4
+PA719456,female,Mörch,Sandrine,1961-11-13,Cadres,LAREM,Haute-Garonne,31,9
+PA719464,male,Nadot,Sébastien,1972-07-08,Cadres,RPS,Haute-Garonne,31,10
+PA719472,male,Cazeneuve,Jean-René,1958-06-09,Cadres,LAREM,Gers,32,1
+PA719480,male,Gaillard,Olivier,1967-02-28,Cadres,ND,Gard,30,5
+PA719488,male,Berta,Philippe,1960-04-11,Cadres,MODEM,Gard,30,6
+PA719496,male,Cabaré,Pierre,1957-12-12,Entrepreneurs,LAREM,Haute-Garonne,31,1
+PA719504,male,Lagleize,Jean-Luc,1958-09-09,Cadres,MODEM,Haute-Garonne,31,2
+PA719512,female,Vignon,Corinne,1963-06-10,Cadres,LAREM,Haute-Garonne,31,3
+PA719520,male,Nogal,Mickaël,1990-11-26,Cadres,LAREM,Haute-Garonne,31,4
+PA719528,male,Portarrieu,Jean-François,1965-10-14,Cadres,LAREM,Haute-Garonne,31,5
+PA719540,female,Toutut-Picard,Élisabeth,1954-12-17,Cadres,LAREM,Haute-Garonne,31,7
+PA719550,female,Tanguy,Liliana,1967-03-12,Cadres,LAREM,Finistère,29,7
+PA719558,male,Balanant,Erwan,1971-02-21,Cadres,MODEM,Finistère,29,8
+PA719570,female,Fabre,Catherine,1978-09-19,Cadres,LAREM,Gironde,33,2
+PA719578,male,Prud'homme,Loïc,1969-08-19,Prof. inter.,FI,Gironde,33,3
+PA719592,male,Simian,Benoit,1983-05-27,Cadres,UDRL,Gironde,33,5
+PA719600,male,Poulliat,Éric,1974-07-09,Employés,LAREM,Gironde,33,6
+PA719608,female,Ménard,Emmanuelle,1968-08-15,Cadres,ND,Hérault,34,6
+PA719616,male,Euzet,Christophe,1967-04-02,Cadres,MODEM,Hérault,34,7
+PA719624,female,Couillard,Bérangère,1986-07-24,Cadres,LAREM,Gironde,33,7
+PA719632,female,Panonacle,Sophie,1968-12-16,Non déclaré,LAREM,Gironde,33,8
+PA719640,female,Mette,Sophie,1959-09-13,Non déclaré,MODEM,Gironde,33,9
+PA719652,female,Hammerer,Véronique,1968-11-04,Cadres,LAREM,Gironde,33,11
+PA719660,female,Dubos,Christelle,1976-03-26,Cadres,LAREM,Gironde,33,12
+PA719668,female,Mirallès,Patricia,1967-08-22,Employés,LAREM,Hérault,34,1
+PA719676,female,Ressiguier,Muriel,1977-12-21,Employés,FI,Hérault,34,2
+PA719684,female,Dubost,Coralie,1983-03-04,Cadres,LAREM,Hérault,34,3
+PA719692,male,Eliaou,Jean-François,1956-08-13,Cadres,LAREM,Hérault,34,4
+PA719700,male,Huppé,Philippe,1968-02-12,Cadres,LAREM,Hérault,34,5
+PA719710,female,David,Dominique,1963-02-27,Cadres,LAREM,Gironde,33,1
+PA719718,female,Maillart-Méhaignerie,Laurence,1967-04-05,Entrepreneurs,LAREM,Ille-et-Vilaine,35,2
+PA719728,male,Le Bohec,Gaël,1977-11-04,Entrepreneurs,LAREM,Ille-et-Vilaine,35,4
+PA719736,female,Galliard-Minier,Camille,1975-05-26,Non déclaré,LAREM,Isère,38,1
+PA719740,male,Colas-Roy,Jean-Charles,1978-05-02,Cadres,LAREM,Isère,38,2
+PA719748,female,Chalas,Émilie,1977-10-18,Cadres,LAREM,Isère,38,3
+PA719756,female,Cloarec-Le Nabour,Christine,1964-10-28,Prof. inter.,LAREM,Ille-et-Vilaine,35,5
+PA719770,male,Bachelier,Florian,1979-04-05,Entrepreneurs,LAREM,Ille-et-Vilaine,35,8
+PA719778,male,Jolivet,François,1966-03-21,Cadres,LAREM,Indre,36,1
+PA719790,male,Chalumeau,Philippe,1963-11-08,Cadres,LAREM,Indre-et-Loire,37,1
+PA719798,male,Labaronne,Daniel,1955-07-16,Cadres,LAREM,Indre-et-Loire,37,2
+PA719814,female,Colboc,Fabienne,1971-08-09,Cadres,LAREM,Indre-et-Loire,37,4
+PA719822,female,Thillaye,Sabine,1959-05-18,Entrepreneurs,MODEM,Indre-et-Loire,37,5
+PA719830,male,Démoulin,Nicolas,1972-07-22,Entrepreneurs,LAREM,Hérault,34,8
+PA719842,male,Laabid,Mustapha,1969-03-29,Cadres,LAREM,Ille-et-Vilaine,35,1
+PA719850,female,Motin,Cendra,1975-01-29,Cadres,LAREM,Isère,38,6
+PA719858,female,Limon,Monique,1953-12-05,Retraités,LAREM,Isère,38,7
+PA719866,female,Abadie,Caroline,1976-09-07,Cadres,LAREM,Isère,38,8
+PA719874,female,Jacquier-Laforge,Élodie,1978-04-15,Cadres,MODEM,Isère,38,9
+PA719882,female,Meynier-Millefert,Marjolaine,1982-09-30,Cadres,LAREM,Isère,38,10
+PA719890,female,Brulebois,Danielle,1947-07-04,Retraités,LAREM,Jura,39,1
+PA719918,male,Lainé,Fabien,1976-04-15,Prof. inter.,MODEM,Landes,40,1
+PA719922,male,Causse,Lionel,1971-05-06,Cadres,LAREM,Landes,40,2
+PA719930,male,Vallaud,Boris,1975-07-25,Cadres,PS,Landes,40,3
+PA719942,male,Baudu,Stéphane,1965-05-01,Cadres,MODEM,Loir-et-Cher,41,1
+PA719946,male,Peltier,Guillaume,1976-08-27,Cadres,REP,Loir-et-Cher,41,2
+PA719952,male,Mis,Jean-Michel,1967-07-28,Cadres,LAREM,Loire,42,2
+PA719960,female,Faure-Muntian,Valéria,1984-09-02,Employés,LAREM,Loire,42,3
+PA719972,female,Sarles,Nathalie,1962-04-17,Employés,LAREM,Loire,42,5
+PA719980,male,Borowczyk,Julien,1979-05-02,Cadres,LAREM,Loire,42,6
+PA719994,female,Kamowski,Catherine,1958-04-08,Cadres,LAREM,Isère,38,5
+PA720006,male,Geismar,Luc,1966-11-01,Cadres,MODEM,Loire-Atlantique,44,5
+PA720014,female,Tiegna,Huguette,1982-04-01,Cadres,LAREM,Lot,46,2
+PA720022,male,Lauzzana,Michel,1957-03-20,Cadres,LAREM,Lot-et-Garonne,47,1
+PA720030,male,Freschi,Alexandre,1979-05-17,Entrepreneurs,LAREM,Lot-et-Garonne,47,2
+PA720038,female,Josso,Sandrine,1975-09-19,Cadres,UDRL,Loire-Atlantique,44,7
+PA720046,female,Dufeu,Audrey,1980-06-03,Cadres,LAREM,Loire-Atlantique,44,8
+PA720054,male,Haury,Yannick,1954-06-12,Cadres,LAREM,Loire-Atlantique,44,9
+PA720066,female,Rist,Stéphanie,1973-08-06,Cadres,LAREM,Loiret,45,1
+PA720074,female,Janvier,Caroline,1982-03-09,Cadres,LAREM,Loiret,45,2
+PA720092,male,Ramos,Richard,1968-03-23,Cadres,MODEM,Loiret,45,6
+PA720100,male,Pradié,Aurélien,1986-03-14,Cadres,REP,Lot,46,1
+PA720108,female,Oppelt,Valérie,1973-12-10,Entrepreneurs,LAREM,Loire-Atlantique,44,2
+PA720116,female,Brunet,Anne-France,1962-06-12,Cadres,LAREM,Loire-Atlantique,44,3
+PA720124,female,Amadou,Aude,1980-02-29,Retraités,LAREM,Loire-Atlantique,44,4
+PA720138,female,Saint-Paul,Laetitia,1981-01-21,Cadres,LAREM,Maine-et-Loire,49,4
+PA720146,male,Masséglia,Denis,1981-04-11,Cadres,LAREM,Maine-et-Loire,49,5
+PA720154,female,Dubré-Chirat,Nicole,1951-12-18,Retraités,LAREM,Maine-et-Loire,49,6
+PA720162,male,Bolo,Philippe,1967-03-25,Cadres,MODEM,Maine-et-Loire,49,7
+PA720170,female,Grandjean,Carole,1983-05-18,Cadres,LAREM,Meurthe-et-Moselle,54,1
+PA720178,male,Garcia,Laurent,1970-05-31,Cadres,MODEM,Meurthe-et-Moselle,54,2
+PA720190,male,Sorre,Bertrand,1965-05-08,Employés,LAREM,Manche,50,2
+PA720202,female,Krimi,Sonia,1982-12-20,Cadres,LAREM,Manche,50,4
+PA720210,female,Beauvais,Valérie,1963-03-08,Non déclaré,REP,Marne,51,1
+PA720214,female,Kuric,Aina,1987-05-15,Entrepreneurs,MODEM,Marne,51,2
+PA720222,male,Girardin,Éric,1962-02-12,Cadres,LAREM,Marne,51,3
+PA720230,female,Magnier,Lise,1984-12-31,Cadres,MODEM,Marne,51,4
+PA720246,male,Templier,Sylvain,1971-12-27,Cadres,LAREM,Haute-Marne,52,1
+PA720256,female,Bannier,Géraldine,1979-11-22,Cadres,MODEM,Mayenne,53,2
+PA720268,male,Damaisin,Olivier,1966-08-05,Entrepreneurs,UDRL,Lot-et-Garonne,47,3
+PA720278,male,Orphelin,Matthieu,1972-12-03,Cadres,EELV,Maine-et-Loire,49,1
+PA720286,female,Fiat,Caroline,1977-01-28,Ouvriers,FI,Meurthe-et-Moselle,54,6
+PA720298,female,Cariou,Émilie,1971-10-14,Cadres,EELV,Meuse,55,2
+PA720310,male,Arend,Christophe,1975-08-12,Cadres,LAREM,Moselle,57,6
+PA720318,female,Zannier,Hélène,1972-09-19,Cadres,LAREM,Moselle,57,7
+PA720326,male,Hammouche,Brahim,1971-05-17,Cadres,MODEM,Moselle,57,8
+PA720334,male,Pahun,Jimmy,1962-05-15,Prof. inter.,MODEM,Morbihan,56,2
+PA720342,female,Le Peih,Nicole,1959-09-28,Agriculteurs,LAREM,Morbihan,56,3
+PA720354,male,Jacques,Jean-Michel,1968-02-29,Prof. inter.,LAREM,Morbihan,56,6
+PA720362,male,Belhaddad,Belkhir,1969-07-09,Entrepreneurs,LAREM,Moselle,57,1
+PA720370,male,Mendes,Ludovic,1987-04-11,Cadres,LAREM,Moselle,57,2
+PA720378,male,Lioger,Richard,1957-09-18,Cadres,LAREM,Moselle,57,3
+PA720386,male,Di Filippo,Fabien,1986-08-23,Cadres,REP,Moselle,57,4
+PA720394,female,Trisse,Nicole,1963-06-29,Prof. inter.,LAREM,Moselle,57,5
+PA720402,male,Paluszkiewicz,Xavier,1972-12-13,Employés,LAREM,Meurthe-et-Moselle,54,3
+PA720414,male,Perrot,Patrice,1964-02-24,Entrepreneurs,LAREM,Nièvre,58,2
+PA720422,male,Quatennens,Adrien,1990-05-23,Prof. inter.,FI,Nord,59,1
+PA720430,male,Bernalicis,Ugo,1989-09-25,Employés,FI,Nord,59,2
+PA720438,male,Di Pompeo,Christophe,1964-07-15,Cadres,LAREM,Nord,59,3
+PA720446,female,Liso,Brigitte,1959-07-29,Entrepreneurs,LAREM,Nord,59,4
+PA720454,male,Houbron,Dimitri,1991-02-12,Employés,LAREM,Nord,59,17
+PA720468,male,Chenu,Sébastien,1973-04-13,Cadres,ND,Nord,59,19
+PA720480,female,Parmentier-Lecocq,Charlotte,1977-07-17,Cadres,LAREM,Nord,59,6
+PA720488,female,Six,Valérie,1963-01-11,Cadres,UDRL,Nord,59,7
+PA720492,female,Osson,Catherine,1974-02-07,Cadres,LAREM,Nord,59,8
+PA720500,female,Petit,Valérie,1976-06-23,Cadres,MODEM,Nord,59,9
+PA720516,female,Morlighem,Florence,1970-04-10,Cadres,LAREM,Nord,59,11
+PA720520,female,Cattelot,Anne-Laure,1988-10-25,Cadres,LAREM,Nord,59,12
+PA720538,female,De Temmerman,Jennifer,1977-02-16,Cadres,RPS,Nord,59,15
+PA720546,male,Bruneel,Alain,1952-03-07,Retraités,PCF,Nord,59,16
+PA720552,female,Rauch,Isabelle,1968-08-10,Cadres,LAREM,Moselle,57,9
+PA720560,female,Goulet,Perrine,1978-03-19,Cadres,MODEM,Nièvre,58,1
+PA720568,female,Thill,Agnès,1964-06-02,Prof. inter.,UDRL,Oise,60,2
+PA720576,male,Bois,Pascal,1959-12-03,Cadres,LAREM,Oise,60,3
+PA720586,male,Vatin,Pierre,1967-08-21,Cadres,REP,Oise,60,5
+PA720590,male,Potterie,Benoit,1967-07-23,Entrepreneurs,LAREM,Pas-de-Calais,62,8
+PA720598,female,Deprez-Audebert,Marguerite,1952-05-17,Retraités,MODEM,Pas-de-Calais,62,9
+PA720610,female,Houplain,Myriane,1946-06-05,Non déclaré,ND,Pas-de-Calais,62,10
+PA720614,female,Le Pen,Marine,1968-08-05,Cadres,ND,Pas-de-Calais,62,11
+PA720622,female,Bureau-Bonnard,Carole,1965-08-09,Cadres,LAREM,Oise,60,6
+PA720630,male,Minot,Maxime,1987-07-20,Employés,REP,Oise,60,7
+PA720644,male,Nury,Jérôme,1972-08-25,Cadres,REP,Orne,61,3
+PA720652,male,Duvergé,Bruno,1957-04-03,Cadres,MODEM,Pas-de-Calais,62,1
+PA720664,male,Evrard,José,1945-07-17,Retraités,ND,Pas-de-Calais,62,3
+PA720672,male,Therry,Robert,1947-06-27,Retraités,REP,Pas-de-Calais,62,4
+PA720684,male,Dumont,Pierre-Henri,1987-10-07,Cadres,REP,Pas-de-Calais,62,7
+PA720692,male,Roussel,Fabien,1969-04-16,Employés,PCF,Nord,59,20
+PA720696,female,Descamps,Béatrice,1961-04-24,Prof. inter.,UDRL,Nord,59,21
+PA720704,female,Vichnievsky,Laurence,1955-02-05,Cadres,MODEM,Puy-de-Dôme,63,3
+PA720720,female,Poueyto,Josy,1954-01-13,Retraités,MODEM,Pyrénées-Atlantiques,64,1
+PA720728,male,Mattei,Jean-Paul,1954-03-21,Cadres,MODEM,Pyrénées-Atlantiques,64,2
+PA720738,male,Michels,Thierry,1960-08-27,Cadres,LAREM,Bas-Rhin,67,1
+PA720746,male,Waserman,Sylvain,1967-12-08,Entrepreneurs,MODEM,Bas-Rhin,67,2
+PA720754,male,Studer,Bruno,1978-06-18,Cadres,LAREM,Bas-Rhin,67,3
+PA720764,female,Lasserre,Florence,1974-06-29,Employés,MODEM,Pyrénées-Atlantiques,64,5
+PA720772,male,Bru,Vincent,1955-04-29,Cadres,MODEM,Pyrénées-Atlantiques,64,6
+PA720780,male,Sempastous,Jean-Bernard,1964-08-05,Cadres,LAREM,Hautes-Pyrénées,65,1
+PA720790,male,Grau,Romain,1974-06-21,Cadres,LAREM,Pyrénées-Orientales,66,1
+PA720802,female,Pujol,Catherine,1960-04-06,Non déclaré,ND,Pyrénées-Orientales,66,2
+PA720806,female,Gayte,Laurence,1965-09-25,Cadres,LAREM,Pyrénées-Orientales,66,3
+PA720814,male,Cazenove,Sébastien,1976-12-28,Prof. inter.,LAREM,Pyrénées-Orientales,66,4
+PA720822,male,Bilde,Bruno,1976-09-22,Cadres,ND,Pas-de-Calais,62,12
+PA720830,female,Thomas,Valérie,1968-01-21,Cadres,LAREM,Puy-de-Dôme,63,1
+PA720846,male,Lachaud,Bastien,1980-08-05,Cadres,FI,Seine-Saint-Denis,93,6
+PA720854,male,Testé,Stéphane,1968-05-10,Cadres,LAREM,Seine-Saint-Denis,93,12
+PA720862,male,Descrozaille,Frédéric,1967-04-16,Cadres,LAREM,Val-de-Marne,94,1
+PA720870,male,Mbaye,Jean François,1979-01-01,Employés,LAREM,Val-de-Marne,94,2
+PA720878,male,Saint-Martin,Laurent,1985-06-22,Cadres,LAREM,Val-de-Marne,94,3
+PA720892,female,Panot,Mathilde,1989-01-15,Cadres,FI,Val-de-Marne,94,10
+PA720900,female,Rilhac,Cécile,1974-04-21,Cadres,LAREM,Val-d'Oise,95,3
+PA720908,female,Moutchou,Naïma,1980-11-04,Cadres,LAREM,Val-d'Oise,95,4
+PA720916,female,Lazaar,Fiona,1985-09-19,Cadres,EELV,Val-d'Oise,95,5
+PA720928,male,Corceiro,David,1977-08-03,Cadres,MODEM,Val-d'Oise,95,6
+PA720932,male,Da Silva,Dominique,1968-06-30,Entrepreneurs,LAREM,Val-d'Oise,95,7
+PA720944,female,Park,Zivka,1985-01-22,Cadres,LAREM,Val-d'Oise,95,9
+PA720952,male,Taché,Aurélien,1984-05-26,Cadres,EELV,Val-d'Oise,95,10
+PA720960,male,Serva,Olivier,1974-06-21,Cadres,LAREM,Guadeloupe,971,1
+PA720968,female,Benin,Justine,1975-03-12,Cadres,MODEM,Guadeloupe,971,2
+PA720976,male,Mathiasin,Max,1956-02-24,Cadres,MODEM,Guadeloupe,971,3
+PA720988,female,Manin,Josette,1950-03-16,Retraités,ND,Martinique,972,1
+PA720996,male,El Guerrab,M'jid,1983-04-25,Cadres,UDRL,Français établis hors de France,099,9
+PA721004,female,Lakrafi,Amélia,1978-03-20,Entrepreneurs,LAREM,Français établis hors de France,099,10
+PA721012,female,Kéclard-Mondésir,Manuéla,1971-05-06,Prof. inter.,PCF,Martinique,972,2
+PA721024,female,Genetet,Anne,1963-04-20,Cadres,LAREM,Français établis hors de France,099,11
+PA721036,male,Adam,Lénaïck,1992-02-19,Cadres,LAREM,Guyane,973,2
+PA721046,female,Bassire,Nathalie,1968-01-22,Retraités,UDRL,Réunion,974,3
+PA721054,male,Lorion,David,1964-10-15,Cadres,REP,Réunion,974,4
+PA721062,male,Ratenon,Jean-Hugues,1967-06-25,Employés,FI,Réunion,974,5
+PA721070,female,Ramassamy,Nadia,1961-05-17,Cadres,REP,Réunion,974,6
+PA721094,male,Dunoyer,Philippe,1968-01-11,Cadres,ND,Nouvelle-Calédonie,988,1
+PA721110,female,Sanquer,Nicole,1972-06-16,Cadres,UDRL,Polynésie Française,987,2
+PA721118,male,Brotherson,Moetai,1969-10-22,Non déclaré,ND,Polynésie Française,987,3
+PA721126,female,Guion-Firmin,Claire,1957-09-06,Cadres,REP,Saint-Barthélemy et Saint-Martin,977,1
+PA721134,male,Lescure,Roland,1966-11-26,Cadres,LAREM,Français établis hors de France,099,1
+PA721142,female,Forteza,Paula,1986-08-08,Cadres,EELV,Français établis hors de France,099,2
+PA721150,male,Holroyd,Alexandre,1987-05-17,Retraités,LAREM,Français établis hors de France,099,3
+PA721158,male,Anglade,Pieyre-Alexandre,1986-11-02,Cadres,LAREM,Français établis hors de France,099,4
+PA721166,female,Cazebonne,Samantha,1971-08-10,Cadres,LAREM,Français établis hors de France,099,5
+PA721174,male,Son-Forget,Joachim,1983-04-15,Cadres,ND,Français établis hors de France,099,6
+PA721182,male,Petit,Frédéric,1961-02-10,Cadres,MODEM,Français établis hors de France,099,7
+PA721194,female,Dumas,Frédérique,1963-05-18,Entrepreneurs,EELV,Hauts-de-Seine,92,13
+PA721202,male,Coquerel,Éric,1958-12-30,Cadres,FI,Seine-Saint-Denis,93,1
+PA721210,male,Corbière,Alexis,1968-08-17,Cadres,FI,Seine-Saint-Denis,93,7
+PA721218,female,Charrière,Sylvie,1961-05-15,Cadres,LAREM,Seine-Saint-Denis,93,8
+PA721226,female,Rubin,Sabine,1960-08-13,Cadres,FI,Seine-Saint-Denis,93,9
+PA721234,female,Petit,Maud,1971-11-15,Prof. inter.,MODEM,Val-de-Marne,94,4
+PA721246,female,Gaillot,Albane,1971-07-07,Cadres,EELV,Val-de-Marne,94,11
+PA721262,male,Vuilletet,Guillaume,1967-06-20,Cadres,LAREM,Val-d'Oise,95,2
+PA721270,male,Peu,Stéphane,1962-07-24,Employés,PCF,Seine-Saint-Denis,93,2
+PA721278,male,Anato,Patrice,1976-03-14,Cadres,LAREM,Seine-Saint-Denis,93,3
+PA721286,male,Ramadier,Alain,1958-07-08,Cadres,REP,Seine-Saint-Denis,93,10
+PA721296,male,Gouffier-Cha,Guillaume,1986-02-01,Cadres,LAREM,Val-de-Marne,94,6
+PA721314,male,Schellenberger,Raphaël,1990-02-14,Cadres,REP,Haut-Rhin,68,4
+PA721328,female,Brugnera,Anne,1970-11-28,Cadres,LAREM,Rhône,69,4
+PA721336,female,Brocard,Blandine,1981-11-03,Employés,MODEM,Rhône,69,5
+PA721344,male,Bonnell,Bruno,1958-10-06,Entrepreneurs,LAREM,Rhône,69,6
+PA721352,female,Cazarian,Danièle,1965-08-31,Entrepreneurs,LAREM,Rhône,69,13
+PA721364,male,Gauvain,Raphaël,1973-04-10,Cadres,LAREM,Saône-et-Loire,71,5
+PA721372,male,Pichereau,Damien,1988-01-28,Employés,LAREM,Sarthe,72,1
+PA721384,female,Fontenel-Personne,Pascale,1962-05-26,Entrepreneurs,MODEM,Sarthe,72,3
+PA721398,female,Degois,Typhanie,1993-01-06,Prof. inter.,LAREM,Savoie,73,1
+PA721410,female,Bonnivard,Émilie,1980-08-02,Cadres,REP,Savoie,73,3
+PA721418,male,Mignola,Patrick,1971-08-08,Entrepreneurs,MODEM,Savoie,73,4
+PA721426,female,Riotton,Véronique,1969-11-02,Cadres,LAREM,Haute-Savoie,74,1
+PA721434,female,Lardet,Frédérique,1966-09-01,Cadres,LAREM,Haute-Savoie,74,2
+PA721450,female,Lenne,Marion,1974-11-20,Cadres,LAREM,Haute-Savoie,74,5
+PA721458,male,Roseren,Xavier,1970-01-12,Entrepreneurs,LAREM,Haute-Savoie,74,6
+PA721466,male,Le Gendre,Gilles,1958-05-13,Cadres,LAREM,Paris,75,2
+PA721474,male,Viry,Stéphane,1969-10-14,Cadres,REP,Vosges,88,1
+PA721486,male,Naegelen,Christophe,1983-12-30,Entrepreneurs,UDRL,Vosges,88,3
+PA721498,male,Guerini,Stanislas,1982-05-14,Cadres,LAREM,Paris,75,3
+PA721506,female,Kuster,Brigitte,1959-04-12,Non déclaré,REP,Paris,75,4
+PA721514,female,Kerbarh,Stéphanie,1975-07-31,Cadres,LAREM,Seine-Maritime,76,9
+PA721522,male,Batut,Xavier,1976-12-26,Cadres,LAREM,Seine-Maritime,76,10
+PA721530,female,Luquet,Aude,1967-08-18,Cadres,MODEM,Seine-et-Marne,77,1
+PA721538,female,Roques-Etienne,Muriel,1979-03-05,Cadres,LAREM,Tarn,81,1
+PA721542,female,Verdier-Jouclas,Marie-Christine,1965-03-19,Cadres,LAREM,Tarn,81,2
+PA721560,male,Griveaux,Benjamin,1977-12-29,Cadres,LAREM,Paris,75,5
+PA721568,male,Person,Pierre,1989-01-22,Cadres,LAREM,Paris,75,6
+PA721576,female,Bouchet Bellecourt,Sylvie,1957-07-03,Prof. inter.,REP,Seine-et-Marne,77,2
+PA721584,male,Terlier,Jean,1977-03-02,Cadres,LAREM,Tarn,81,3
+PA721600,female,Rossi,Laurianne,1984-05-18,Cadres,LAREM,Hauts-de-Seine,92,11
+PA721608,male,Bourlanges,Jean-Louis,1946-07-13,Cadres,MODEM,Hauts-de-Seine,92,12
+PA721616,male,Rupin,Pacôme,1985-01-25,Cadres,LAREM,Paris,75,7
+PA721624,female,Avia,Laetitia,1985-10-29,Cadres,LAREM,Paris,75,8
+PA721632,female,Lemoine,Patricia,1961-12-30,Cadres,MODEM,Seine-et-Marne,77,5
+PA721636,male,Parigi,Jean-François,1960-01-25,Non déclaré,REP,Seine-et-Marne,77,6
+PA721644,male,Kokouendo,Rodrigue,1974-03-08,Cadres,LAREM,Seine-et-Marne,77,7
+PA721656,female,Muschotti,Cécile,1987-10-30,Cadres,LAREM,Var,83,2
+PA721666,female,Audibert,Edith,1948-03-07,Retraités,REP,Var,83,3
+PA721674,female,Atger,Stéphanie,1975-10-11,Entrepreneurs,LAREM,Essonne,91,6
+PA721678,male,Reda,Robin,1991-05-10,Non déclaré,REP,Essonne,91,7
+PA721690,male,Tan,Buon,1967-03-10,Entrepreneurs,LAREM,Paris,75,9
+PA721702,male,Fauvergue,Jean-Michel,1957-01-31,Cadres,LAREM,Seine-et-Marne,77,8
+PA721710,female,Peyron,Michèle,1961-07-22,Cadres,LAREM,Seine-et-Marne,77,9
+PA721718,female,Do,Stéphanie,1979-12-20,Cadres,LAREM,Seine-et-Marne,77,10
+PA721726,female,Mauborgne,Sereine,1972-05-03,Prof. inter.,LAREM,Var,83,4
+PA721734,male,Michel-Kleisbauer,Philippe,1969-03-06,Cadres,MODEM,Var,83,5
+PA721742,female,Florennes,Isabelle,1967-08-02,Cadres,MODEM,Hauts-de-Seine,92,4
+PA721750,female,Calvez,Céline,1979-07-24,Entrepreneurs,LAREM,Hauts-de-Seine,92,5
+PA721760,female,Gatel,Maud,1979-04-06,Cadres,ND,Paris,75,11
+PA721768,female,Silin,Marie,1978-10-04,Cadres,LAREM,Paris,75,12
+PA721776,male,Baichère,Didier,1970-08-20,Cadres,LAREM,Yvelines,78,1
+PA721784,female,Gomez-Bassac,Valérie,1969-07-16,Cadres,LAREM,Var,83,6
+PA721792,female,Guerel,Émilie,1983-12-18,Cadres,LAREM,Var,83,7
+PA721800,male,Matras,Fabien,1984-09-12,Prof. inter.,LAREM,Var,83,8
+PA721808,female,Crouzet,Michèle,1967-08-31,Cadres,MODEM,Yonne,89,3
+PA721816,male,Boucard,Ian,1988-05-05,Cadres,REP,Territoire de Belfort,90,1
+PA721824,male,Renson,Hugues,1978-02-11,Cadres,LAREM,Paris,75,13
+PA721832,female,Boëlle,Sandra,1961-05-26,Non déclaré,REP,Paris,75,14
+PA721836,male,Barrot,Jean-Noël,1983-05-13,Cadres,MODEM,Yvelines,78,2
+PA721844,female,Piron,Béatrice,1965-08-30,Entrepreneurs,LAREM,Yvelines,78,3
+PA721852,female,Lebec,Marie,1990-12-17,Cadres,LAREM,Yvelines,78,4
+PA721864,female,Zitouni,Souad,1974-04-23,Cadres,LAREM,Vaucluse,84,1
+PA721876,male,Morenas,Adrien,1982-01-01,Non déclaré,LAREM,Vaucluse,84,3
+PA721880,female,Guévenoux,Marie,1976-11-02,Cadres,LAREM,Essonne,91,9
+PA721888,male,Raphan,Pierre-Alain,1983-04-06,Entrepreneurs,LAREM,Essonne,91,10
+PA721896,female,Faucillon,Elsa,1981-08-06,Employés,PCF,Hauts-de-Seine,92,1
+PA721908,female,Braun-Pivet,Yaël,1970-12-07,Cadres,LAREM,Yvelines,78,5
+PA721916,female,Pouzyreff,Natalia,1961-02-18,Cadres,LAREM,Yvelines,78,6
+PA721924,female,de Vaucouleurs,Michèle,1964-02-12,Cadres,MODEM,Yvelines,78,7
+PA721932,female,Lorho,Marie-France,1964-12-15,Prof. inter.,ND,Vaucluse,84,4
+PA721946,male,Marilossian,Jacques,1958-07-26,Cadres,LAREM,Hauts-de-Seine,92,7
+PA721960,female,Obono,Danièle,1980-07-12,Cadres,FI,Paris,75,17
+PA721968,male,Vialay,Michel,1960-01-06,Cadres,REP,Yvelines,78,8
+PA721976,male,Millienne,Bruno,1959-11-28,Cadres,MODEM,Yvelines,78,9
+PA721984,male,Latombe,Philippe,1975-04-21,Cadres,MODEM,Vendée,85,1
+PA721996,male,Loiseau,Patrick,1960-05-08,Cadres,MODEM,Vendée,85,2
+PA722000,male,Buchou,Stéphane,1974-03-14,Cadres,LAREM,Vendée,85,3
+PA722008,female,Leguille-Balloy,Martine,1957-09-06,Cadres,LAREM,Vendée,85,4
+PA722022,female,Romeiro Dias,Laëtitia,1981-01-15,Cadres,LAREM,Essonne,91,3
+PA722030,male,Bournazel,Pierre-Yves,1977-08-31,Entrepreneurs,MODEM,Paris,75,18
+PA722038,male,Adam,Damien,1989-06-28,Cadres,LAREM,Seine-Maritime,76,1
+PA722046,female,Bergé,Aurore,1986-11-13,Cadres,LAREM,Yvelines,78,10
+PA722062,female,Granjus,Florence,1962-05-17,Cadres,LAREM,Yvelines,78,12
+PA722070,male,Henriet,Pierre,1991-11-26,Prof. inter.,LAREM,Vendée,85,5
+PA722082,female,Ballet-Blu,Françoise,1964-03-09,Entrepreneurs,LAREM,Vienne,86,1
+PA722090,female,Pételle,Bénédicte,1971-06-04,Prof. inter.,LAREM,Hauts-de-Seine,92,2
+PA722094,female,Hennion,Christine,1955-08-23,Cadres,LAREM,Hauts-de-Seine,92,3
+PA722102,female,Vidal,Annie,1956-09-17,Cadres,LAREM,Seine-Maritime,76,2
+PA722110,male,Wulfranc,Hubert,1956-12-17,Cadres,PCF,Seine-Maritime,76,3
+PA722118,female,Sylla,Sira,1980-03-14,Cadres,LAREM,Seine-Maritime,76,4
+PA722126,male,Chiche,Guillaume,1986-03-30,Cadres,EELV,Deux-Sèvres,79,1
+PA722134,male,Fiévet,Jean-Marie,1964-06-19,Prof. inter.,LAREM,Deux-Sèvres,79,3
+PA722142,male,Ruffin,François,1975-10-18,Cadres,FI,Somme,80,1
+PA722150,male,Houlié,Sacha,1988-10-08,Cadres,LAREM,Vienne,86,2
+PA722162,male,Turquois,Nicolas,1972-07-26,Agriculteurs,MODEM,Vienne,86,4
+PA722170,female,Beaudouin-Hubiere,Sophie,1972-11-20,Non déclaré,LAREM,Haute-Vienne,87,1
+PA722178,male,Maire,Jacques,1962-04-04,Cadres,LAREM,Hauts-de-Seine,92,8
+PA722194,female,Provendier,Florence,1965-10-28,Cadres,LAREM,Hauts-de-Seine,92,10
+PA722202,male,Jumel,Sébastien,1971-12-20,Cadres,PCF,Seine-Maritime,76,6
+PA722218,female,Delpirou,Cécile,1964-03-23,Cadres,LAREM,Somme,80,2
+PA722228,male,Leclabart,Jean-Claude,1954-12-04,Retraités,LAREM,Somme,80,4
+PA722240,male,Venteau,Pierre,1974-08-26,Cadres,LAREM,Haute-Vienne,87,2
+PA722244,female,Magne,Marie-Ange,1987-11-20,Cadres,LAREM,Haute-Vienne,87,3
+PA722252,female,Rixain,Marie-Pierre,1977-01-18,Cadres,LAREM,Essonne,91,4
+PA722260,male,Villani,Cédric,1973-10-05,Cadres,EELV,Essonne,91,5
+PA722268,female,Wonner,Martine,1964-03-27,Cadres,RPS,Bas-Rhin,67,4
+PA722280,male,Meyer,Philippe,1969-04-29,Prof. inter.,REP,Bas-Rhin,67,6
+PA722284,male,Fuchs,Bruno,1959-04-07,Entrepreneurs,MODEM,Haut-Rhin,68,6
+PA722292,male,Rudigoz,Thomas,1971-01-11,Non déclaré,LAREM,Rhône,69,1
+PA722300,female,Khedher,Anissa,1980-04-01,Cadres,LAREM,Rhône,69,7
+PA722308,female,Serre,Nathalie,1968-08-17,Non déclaré,REP,Rhône,69,8
+PA722312,female,Bessot Ballot,Barbara,1972-04-13,Cadres,LAREM,Haute-Saône,70,1
+PA722320,male,Lejeune,Christophe,1969-03-22,Cadres,LAREM,Haute-Saône,70,2
+PA722336,male,Thiébaut,Vincent,1972-05-23,Cadres,LAREM,Bas-Rhin,67,9
+PA722344,male,Julien-Laferrière,Hubert,1966-02-27,Cadres,EELV,Rhône,69,2
+PA722358,male,Gassilloud,Thomas,1981-05-21,Entrepreneurs,MODEM,Rhône,69,10
+PA722366,male,Fugit,Jean-Luc,1969-11-27,Cadres,LAREM,Rhône,69,11
+PA722374,male,Isaac-Sibille,Cyrille,1958-04-30,Cadres,MODEM,Rhône,69,12
+PA722382,male,Dirx,Benjamin,1979-01-25,Entrepreneurs,LAREM,Saône-et-Loire,71,1
+PA722390,female,Corneloup,Josiane,1959-09-30,Cadres,REP,Saône-et-Loire,71,2
+PA722398,male,Rebeyrotte,Rémy,1966-03-27,Cadres,LAREM,Saône-et-Loire,71,3
+PA724827,female,Ali,Ramlati,1961-05-28,Cadres,LAREM,Mayotte,976,1
+PA746,male,Carrez,Gilles,1948-08-29,Cadres,REP,Val-de-Marne,94,5
+PA748954,male,Savignat,Antoine,1975-07-22,Cadres,REP,Val-d'Oise,95,1
+PA755549,male,Brial,Sylvain,1964-09-16,Entrepreneurs,UDRL,Wallis-et-Futuna,986,1
+PA759192,male,Poudroux,Jean-Luc,1950-08-29,Retraités,REP,Réunion,974,7
+PA760658,male,Chouat,Francis,1948-12-20,Retraités,LAREM,Essonne,91,1
+PA767,male,Cattin,Jacques,1958-06-04,Agriculteurs,REP,Haut-Rhin,68,2
+PA774952,male,Benassaya,Philippe,1964-08-04,Entrepreneurs,REP,Yvelines,78,11
+PA774954,female,Blin,Anne-Laure,1983-06-12,Non déclaré,REP,Maine-et-Loire,49,3
+PA774956,male,Hemedinger,Yves,1965-10-23,Cadres,REP,Haut-Rhin,68,1
+PA774958,male,Leseul,Gérard,1960-08-15,Cadres,PS,Seine-Maritime,76,5
+PA774960,female,Santiago,Isabelle,1965-09-20,Cadres,PS,Val-de-Marne,94,9
+PA774962,female,Lebon,Karine,1985-06-09,Prof. inter.,PCF,Réunion,974,2
+PA856,male,Cherpion,Gérard,1948-03-15,Cadres,REP,Vosges,88,2
+PA923,male,Cornut-Gentille,François,1958-05-22,Cadres,REP,Haute-Marne,52,2
+PA942,male,de Courson,Charles,1952-04-02,Cadres,UDRL,Marne,51,5
